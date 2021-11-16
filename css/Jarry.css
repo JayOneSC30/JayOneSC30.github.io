@@ -1,3 +1,9 @@
+/* 页脚透明 */
+
+#footer {
+    background: transparent !important;
+}
+
 /* 鼠标图标 */
 
 body {
