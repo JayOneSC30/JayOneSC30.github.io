@@ -113,7 +113,7 @@ i:hover {
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: #e58a8a;
+    background-color: #a9bdc3;
     background-image: -webkit-linear-gradient( 45deg, rgba(255, 255, 255, 0.4) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.4) 50%, rgba(255, 255, 255, 0.4) 75%, transparent 75%, transparent);
     border-radius: 2em;
 }
